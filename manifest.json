@@ -1,0 +1,10 @@
+{
+	"name": "Brek",
+	"version": "1.0",
+	"permissions": ["storage", "activeTab", "tabs"],
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": true
+	},
+	"manifest_version":2
+}
